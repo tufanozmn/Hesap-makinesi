@@ -1,0 +1,13 @@
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.exe
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.deps.json
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.runtimeconfig.json
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.runtimeconfig.dev.json
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.dll
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\bin\Debug\netcoreapp3.1\Hesap makinesi.pdb
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.csprojAssemblyReference.cache
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.AssemblyInfo.cs
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.dll
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.pdb
+C:\Users\Tufan Özmen\source\repos\Hesap makinesi\Hesap makinesi\obj\Debug\netcoreapp3.1\Hesap makinesi.genruntimeconfig.cache
